@@ -2,12 +2,9 @@
 /*
     Name: Wordpress API Connection Class
     Author: Diego Alejos
-    For: CPRIT
     Description: This class is designed to interface with JSON API plugin for
     wordpress. This will allow us to access a wordpress installation through
     a RESTful interface and give us secure access to it's inner workings.
-    This script was written as a part of the mediaroom project and is included
-    in the tranScod3.php daemon. 
     
     Dependencies: DOMDocument, and php cURL
     
